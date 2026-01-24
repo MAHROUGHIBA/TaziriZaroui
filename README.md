@@ -33,8 +33,6 @@ Alongside hands-on projects, I actively follow and create **structured technical
 
 - Data Engineering fundamentals  
 - Python & SQL for data analysis  
-- Data pipelines and automation  
-- Applied AI concepts through practical projects  
 
 ---
 
