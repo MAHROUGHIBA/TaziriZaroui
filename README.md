@@ -18,10 +18,11 @@ Alongside hands-on projects, I actively follow and create **structured technical
 
 ---
 ## My github states 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TaziriZaroui&label=Profile%20views&color=ff6f00&style=flat" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TaziriZaroui&theme=dark&hide_border=true&show_icons=true&icon_color=FFA500&title_color=FF6F00&cache_seconds=1800)
-
-
+![Stats](https://github-readme-stats.vercel.app/api?username=TaziriZaroui&theme=dark&show_icons=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TaziriZaroui&theme=github-compact&bg_color=0d1117&color=ff6f00&line=ff6f00&point=ffffff&hide_border=true)
 
@@ -46,9 +47,9 @@ Alongside hands-on projects, I actively follow and create **structured technical
 ## Tech Stack
 
 **Languages**
-- Python
-- SQL
-- java
+-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Data & Tools**
 - Pandas, NumPy
