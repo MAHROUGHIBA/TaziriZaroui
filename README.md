@@ -23,10 +23,7 @@ Alongside projects, I create and follow **structured technical courses** to stre
 ![GitHub Contribution Chart](https://ghchart.rshah.org/TaziriZaroui)
 
 
-
-![Repo Stars](https://img.shields.io/github/stars/TaziriZaroui/Repo1?style=for-the-badge)
-
-![Repo Forks](https://img.shields.io/github/forks/TaziriZaroui/Repo1?style=for-the-badge)
+![GitHub Contribution Chart](https://ghchart.rshah.org/TaziriZaroui)
 
 ---
 
